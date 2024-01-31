@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## Github Stats
 
-![Hilmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HilmiFauzan&count_private=true&show_icons=true&theme=dracula)
+<!--![Hilmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HilmiFauzan&count_private=true&show_icons=true&theme=dracula)-->
 
 ## My Skill
 
