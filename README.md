@@ -2,7 +2,7 @@
 
 My name is Hilmi Fauzan Ramadhan. You can call me Hilmi.
 
-- 🌱 I’m currently learning Firebase, React and Redux
+- 🌱 I’m currently learning Firebase, MERN, and Three JS
 
 <!--
 **HilmiFauzan/HilmiFauzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
